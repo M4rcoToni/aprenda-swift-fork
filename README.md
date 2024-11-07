@@ -59,17 +59,17 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 ### Tutoriais
 
 - ❌ [Como desenvolver seu próprio gerador de senha no iOS - Victor Catão [🇧🇷]](https://medium.com/victorcatao/como-desenvolver-seu-pr%C3%B3prio-gerador-de-senha-no-ios-d538f27236dd)[-
-- [ ] - [iOS App Dev Tutorials - Apple](https://developer.apple.com/tutorials/app-dev-training)
-- [ ] 🔄 - [SwifUI Tutorial - Apple](https://developer.apple.com/tutorials/swiftui)
-- [x] - 🆕 [🎬 Como Criar Aplicativos Para iPhone: Xcode 16 Atualizado! - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=KOh4AlaKM60)
+- [iOS App Dev Tutorials - Apple](https://developer.apple.com/tutorials/app-dev-training)
+-  🔄 - [SwifUI Tutorial - Apple](https://developer.apple.com/tutorials/swiftui)
+- ✅ - 🆕 [🎬 Como Criar Aplicativos Para iPhone: Xcode 16 Atualizado! - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=KOh4AlaKM60)
 - [🎬 Como criar um app iOS no Xcode sem Storyboard - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=bXF6KMJFwSE)
 - [Criação de Apps para iOS com SWIFT 2023 - Bruno Santos [🇧🇷]](https://www.youtube.com/playlist?list=PL50rZONmv8ZSJ2M6PpPMcOawgE32ke_9_)
 
 ### Linguagem
 
-- [x] [Variáveis e Constantes em Swift - ReisDev [🇧🇷]](https://blog.reisdev.com.br/variaveis-e-constantes-em-swift)
-  - [Numbers, Data, and Basic Values 🍎](https://developer.apple.com/documentation/foundation/numbers_data_and_basic_values)
-  - [Strings and Text 🍎](https://developer.apple.com/documentation/foundation/strings_and_text)
+- ✅ [Variáveis e Constantes em Swift - ReisDev [🇧🇷]](https://blog.reisdev.com.br/variaveis-e-constantes-em-swift)
+  - ✅ [Numbers, Data, and Basic Values 🍎](https://developer.apple.com/documentation/foundation/numbers_data_and_basic_values)
+  - ✅ [Strings and Text 🍎](https://developer.apple.com/documentation/foundation/strings_and_text)
 - [O que são Classes e Struct, as diferenças e quando usar - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-classes-struct-diferencas-usar)
 - [Uso de Struct e Class em Swift - Amanda Paiva [🇧🇷]](https://medium.com/@amandakpaiva/uso-de-struct-e-class-em-swift-10b2430ad578)
 - [Protocolos em Swift: Uma abordagem didática - Caio Santos  [🇧🇷]](https://medium.com/@caio.santos/protolocos-em-swift-uma-abordagem-didática-5f032ec8bc54)
