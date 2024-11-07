@@ -67,7 +67,9 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ### Linguagem
 
-- [Variáveis e Constantes em Swift - ReisDev [🇧🇷]](https://blog.reisdev.com.br/variaveis-e-constantes-em-swift)
+- [x] [Variáveis e Constantes em Swift - ReisDev [🇧🇷]](https://blog.reisdev.com.br/variaveis-e-constantes-em-swift)
+  - [Numbers, Data, and Basic Values 🍎](https://developer.apple.com/documentation/foundation/numbers_data_and_basic_values)
+  - [Strings and Text 🍎](https://developer.apple.com/documentation/foundation/strings_and_text)
 - [O que são Classes e Struct, as diferenças e quando usar - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-classes-struct-diferencas-usar)
 - [Uso de Struct e Class em Swift - Amanda Paiva [🇧🇷]](https://medium.com/@amandakpaiva/uso-de-struct-e-class-em-swift-10b2430ad578)
 - [Protocolos em Swift: Uma abordagem didática - Caio Santos  [🇧🇷]](https://medium.com/@caio.santos/protolocos-em-swift-uma-abordagem-didática-5f032ec8bc54)
